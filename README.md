@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Nameeha-imtiaz/Nameeha-imtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Nameeha Imtiaz 👋
 
-Here are some ideas to get you started:
+> A passionate student exploring the world of **Data & Databases**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a DBMS enthusiast who loves organizing data, designing databases, and writing efficient SQL queries.
+
+---
+
+#### 💾 What I'm Learning:
+- 🗄️ **DBMS Concepts** - Normalization, ACID Properties, Transactions
+- 🔍 **SQL** - Joins, Subqueries, Stored Procedures
+- 📊 **ER Diagrams & Database Design**
+- 💡 **Data Management & Data Modeling**
+
+#### 🛠️ Tech Stack:
+`SQL` `MySQL` `ER Diagrams` `Database Design` `Git & GitHub`
+
+#### 🌱 Current Focus:
+Learning advanced SQL and building small database projects for practice.
+
+---
+
+📫 **Let's Connect:** Feel free to explore my repositories!
+
+✨ _"Data is not just information, it's the power to make better decisions."_
